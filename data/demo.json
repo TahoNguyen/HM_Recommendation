@@ -1,0 +1,760 @@
+{
+  "products": [
+    {
+      "article_id": "1000000000",
+      "name": "Sơ mi Oxford xanh biển",
+      "category": "Garment Upper body",
+      "product_type": "Shirt",
+      "colour": "Xanh biển",
+      "demo_price_vnd": 329000,
+      "purchase_count": 420,
+      "image_url": "/assets/product-1.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000001",
+      "name": "Quần chino màu cát",
+      "category": "Garment Lower body",
+      "product_type": "Trousers",
+      "colour": "Be cát",
+      "demo_price_vnd": 459000,
+      "purchase_count": 401,
+      "image_url": "/assets/product-2.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000002",
+      "name": "Túi everyday màu caramel",
+      "category": "Accessories",
+      "product_type": "Bag",
+      "colour": "Caramel",
+      "demo_price_vnd": 289000,
+      "purchase_count": 382,
+      "image_url": "/assets/product-3.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000003",
+      "name": "Áo thun cotton trắng",
+      "category": "Garment Upper body",
+      "product_type": "T-shirt",
+      "colour": "Trắng",
+      "demo_price_vnd": 189000,
+      "purchase_count": 363,
+      "image_url": "/assets/product-4.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000004",
+      "name": "Đầm midi xanh dịu",
+      "category": "Garment Full body",
+      "product_type": "Dress",
+      "colour": "Xanh dịu",
+      "demo_price_vnd": 549000,
+      "purchase_count": 344,
+      "image_url": "/assets/product-5.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000005",
+      "name": "Áo khoác linen tự nhiên",
+      "category": "Garment Upper body",
+      "product_type": "Jacket",
+      "colour": "Be",
+      "demo_price_vnd": 689000,
+      "purchase_count": 325,
+      "image_url": "/assets/product-6.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000006",
+      "name": "Sneaker xanh navy",
+      "category": "Shoes",
+      "product_type": "Sneakers",
+      "colour": "Navy",
+      "demo_price_vnd": 599000,
+      "purchase_count": 306,
+      "image_url": "/assets/product-7.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000007",
+      "name": "Chân váy xếp ly",
+      "category": "Garment Lower body",
+      "product_type": "Skirt",
+      "colour": "Xanh khói",
+      "demo_price_vnd": 359000,
+      "purchase_count": 287,
+      "image_url": "/assets/product-8.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000008",
+      "name": "Sơ mi relaxed trắng kem",
+      "category": "Garment Upper body",
+      "product_type": "Shirt",
+      "colour": "Trắng kem",
+      "demo_price_vnd": 349000,
+      "purchase_count": 268,
+      "image_url": "/assets/product-9.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000009",
+      "name": "Quần straight xanh navy",
+      "category": "Garment Lower body",
+      "product_type": "Trousers",
+      "colour": "Navy",
+      "demo_price_vnd": 499000,
+      "purchase_count": 249,
+      "image_url": "/assets/product-10.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000010",
+      "name": "Túi tote xanh biển",
+      "category": "Accessories",
+      "product_type": "Bag",
+      "colour": "Xanh biển",
+      "demo_price_vnd": 249000,
+      "purchase_count": 230,
+      "image_url": "/assets/product-11.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000011",
+      "name": "Áo thun basic xanh",
+      "category": "Garment Upper body",
+      "product_type": "T-shirt",
+      "colour": "Xanh",
+      "demo_price_vnd": 199000,
+      "purchase_count": 211,
+      "image_url": "/assets/product-12.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000012",
+      "name": "Đầm everyday màu đất",
+      "category": "Garment Full body",
+      "product_type": "Dress",
+      "colour": "Nâu đất",
+      "demo_price_vnd": 499000,
+      "purchase_count": 192,
+      "image_url": "/assets/product-13.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000013",
+      "name": "Áo khoác xanh navy",
+      "category": "Garment Upper body",
+      "product_type": "Jacket",
+      "colour": "Navy",
+      "demo_price_vnd": 729000,
+      "purchase_count": 173,
+      "image_url": "/assets/product-14.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000014",
+      "name": "Sneaker trắng kem",
+      "category": "Shoes",
+      "product_type": "Sneakers",
+      "colour": "Trắng kem",
+      "demo_price_vnd": 549000,
+      "purchase_count": 154,
+      "image_url": "/assets/product-15.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    },
+    {
+      "article_id": "1000000015",
+      "name": "Chân váy linen be",
+      "category": "Garment Lower body",
+      "product_type": "Skirt",
+      "colour": "Be",
+      "demo_price_vnd": 389000,
+      "purchase_count": 135,
+      "image_url": "/assets/product-16.svg",
+      "description": "Sản phẩm minh họa cho OCEAN wardrobe. Ảnh là hình vẽ thiết kế riêng; thông tin và giá không phải dữ liệu H&M thật."
+    }
+  ],
+  "rules": [
+    {
+      "antecedent": [
+        "1000000000"
+      ],
+      "consequent": [
+        "1000000001"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000000"
+      ],
+      "consequent": [
+        "1000000002"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000000"
+      ],
+      "consequent": [
+        "1000000006"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000001"
+      ],
+      "consequent": [
+        "1000000002"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000001"
+      ],
+      "consequent": [
+        "1000000003"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000001"
+      ],
+      "consequent": [
+        "1000000007"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000002"
+      ],
+      "consequent": [
+        "1000000003"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000002"
+      ],
+      "consequent": [
+        "1000000004"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000002"
+      ],
+      "consequent": [
+        "1000000008"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000003"
+      ],
+      "consequent": [
+        "1000000004"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000003"
+      ],
+      "consequent": [
+        "1000000005"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000003"
+      ],
+      "consequent": [
+        "1000000009"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000004"
+      ],
+      "consequent": [
+        "1000000005"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000004"
+      ],
+      "consequent": [
+        "1000000006"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000004"
+      ],
+      "consequent": [
+        "1000000010"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000005"
+      ],
+      "consequent": [
+        "1000000006"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000005"
+      ],
+      "consequent": [
+        "1000000007"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000005"
+      ],
+      "consequent": [
+        "1000000011"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000006"
+      ],
+      "consequent": [
+        "1000000007"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000006"
+      ],
+      "consequent": [
+        "1000000008"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000006"
+      ],
+      "consequent": [
+        "1000000012"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000007"
+      ],
+      "consequent": [
+        "1000000008"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000007"
+      ],
+      "consequent": [
+        "1000000009"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000007"
+      ],
+      "consequent": [
+        "1000000013"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000008"
+      ],
+      "consequent": [
+        "1000000009"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000008"
+      ],
+      "consequent": [
+        "1000000010"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000008"
+      ],
+      "consequent": [
+        "1000000014"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000009"
+      ],
+      "consequent": [
+        "1000000010"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000009"
+      ],
+      "consequent": [
+        "1000000011"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000009"
+      ],
+      "consequent": [
+        "1000000015"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000010"
+      ],
+      "consequent": [
+        "1000000011"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000010"
+      ],
+      "consequent": [
+        "1000000012"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000010"
+      ],
+      "consequent": [
+        "1000000000"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000011"
+      ],
+      "consequent": [
+        "1000000012"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000011"
+      ],
+      "consequent": [
+        "1000000013"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000011"
+      ],
+      "consequent": [
+        "1000000001"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000012"
+      ],
+      "consequent": [
+        "1000000013"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000012"
+      ],
+      "consequent": [
+        "1000000014"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000012"
+      ],
+      "consequent": [
+        "1000000002"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000013"
+      ],
+      "consequent": [
+        "1000000014"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000013"
+      ],
+      "consequent": [
+        "1000000015"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000013"
+      ],
+      "consequent": [
+        "1000000003"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000014"
+      ],
+      "consequent": [
+        "1000000015"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000014"
+      ],
+      "consequent": [
+        "1000000000"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000014"
+      ],
+      "consequent": [
+        "1000000004"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000015"
+      ],
+      "consequent": [
+        "1000000000"
+      ],
+      "confidence": 0.58,
+      "lift": 2.65,
+      "support": 0.019999999999999997
+    },
+    {
+      "antecedent": [
+        "1000000015"
+      ],
+      "consequent": [
+        "1000000001"
+      ],
+      "confidence": 0.54,
+      "lift": 2.5,
+      "support": 0.018
+    },
+    {
+      "antecedent": [
+        "1000000015"
+      ],
+      "consequent": [
+        "1000000005"
+      ],
+      "confidence": 0.38,
+      "lift": 1.9,
+      "support": 0.009999999999999998
+    },
+    {
+      "antecedent": [
+        "1000000000",
+        "1000000001"
+      ],
+      "consequent": [
+        "1000000014"
+      ],
+      "confidence": 0.78,
+      "lift": 3.6,
+      "support": 0.013
+    }
+  ],
+  "metrics": {
+    "run_id": "demo-synthetic",
+    "trained_at": null,
+    "transactions": 5200,
+    "baskets": 1800,
+    "products": 16,
+    "rules": 49,
+    "itemsets": 82,
+    "date_range": null,
+    "parameters": {
+      "min_support": 0.0001,
+      "min_confidence": 0.3,
+      "min_lift": 1
+    },
+    "evaluation": null,
+    "top_categories": [
+      {
+        "category": "Garment Upper body",
+        "count": 1760
+      },
+      {
+        "category": "Garment Lower body",
+        "count": 1072
+      },
+      {
+        "category": "Accessories",
+        "count": 612
+      },
+      {
+        "category": "Garment Full body",
+        "count": 536
+      },
+      {
+        "category": "Shoes",
+        "count": 460
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/*.zip
+data/*.7z
+data/*.tar*
+data/models/
+.sparkStaging/
+artifacts/
+logs/
+node_modules/

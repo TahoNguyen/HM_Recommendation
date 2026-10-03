@@ -1,0 +1,47 @@
+services:
+  mongo:
+    image: mongo:7.0
+    command: ["mongod", "--wiredTigerCacheSizeGB", "${MONGO_CACHE_GB:-1}"]
+    ports:
+      - "127.0.0.1:${MONGO_HOST_PORT:-27018}:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+  web:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      APP_MODE: ${APP_MODE:-demo}
+      HOST: 0.0.0.0
+      MONGODB_URI: mongodb://mongo:27017
+      MONGODB_DATABASE: hm_recommendation
+      DATA_PATH: /app/data/raw
+    volumes:
+      - ./data/raw:/app/data/raw:ro
+    depends_on:
+      mongo:
+        condition: service_healthy
+  training:
+    build: .
+    profiles: [training]
+    environment:
+      MONGODB_URI: mongodb://mongo:27017
+      MONGODB_DATABASE: hm_recommendation
+      DATA_PATH: /app/data/raw
+      SPARK_MASTER: ${SPARK_MASTER:-local[4]}
+      SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-4g}
+      SPARK_PARTITIONS: ${SPARK_PARTITIONS:-64}
+      SPARK_LOCAL_DIR: /tmp/hm-spark
+    volumes:
+      - ./data/raw:/app/data/raw
+    depends_on:
+      mongo:
+        condition: service_healthy
+    command: ["python", "-m", "training.pipeline"]
+volumes:
+  mongo_data:
